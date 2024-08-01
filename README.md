@@ -1,5 +1,7 @@
-![image](https://github.com/user-attachments/assets/ec537b47-abf1-4a36-bf77-0534477066c1)# price_prediction
+
 machine learning project
+
+
 **Overview**
 This project aims to create a web application that predicts house prices in Bengaluru using a machine learning model. The project uses OpenCV for data processing, a machine learning model for prediction, Flask for the backend, and HTML, CSS, and JavaScript for the frontend.
 
